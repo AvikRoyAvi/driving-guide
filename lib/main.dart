@@ -8,7 +8,7 @@ import 'package:jourapothole/core/themes/app_theme.dart';
 import 'package:jourapothole/core/utils/loading_controller.dart';
 import 'package:jourapothole/core/config/app_constants.dart';
 // *** Ensure this import points to the GENERATED file ***
-import 'package:flutter_gen/gen_l10n/app_localizations.dart'; // Correct import
+import 'package:flutter_gen/gen_l10n/app_localizations.dart';
 
 void main() {
   runApp(const MyApp());
